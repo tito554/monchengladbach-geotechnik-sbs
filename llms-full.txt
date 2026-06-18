@@ -1,0 +1,48 @@
+# Geotechnik — Monchengladbach
+
+> Geotechnical engineering services in Monchengladbach, Deutschland.
+
+## Services
+- [Anker](https://monchengladbach.geotechnik.sbs/anker/)
+- [Atterberg Grenzen](https://monchengladbach.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://monchengladbach.geotechnik.sbs/aushub/)
+- [Bodenplatten](https://monchengladbach.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://monchengladbach.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://monchengladbach.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://monchengladbach.geotechnik.sbs/cbr-strasse/)
+- [Cpt Versuch](https://monchengladbach.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://monchengladbach.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://monchengladbach.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://monchengladbach.geotechnik.sbs/fundamente/)
+- [Geophysik](https://monchengladbach.geotechnik.sbs/geophysik/)
+- [Grundungen](https://monchengladbach.geotechnik.sbs/grundungen/)
+- [Hange](https://monchengladbach.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://monchengladbach.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://monchengladbach.geotechnik.sbs/injektionen/)
+- [Labor](https://monchengladbach.geotechnik.sbs/labor/)
+- [Labor In Situ](https://monchengladbach.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://monchengladbach.geotechnik.sbs/masw/)
+- [Pfahle](https://monchengladbach.geotechnik.sbs/pfahle/)
+- [Plattendruckversuch](https://monchengladbach.geotechnik.sbs/plattendruckversuch/)
+- [Ruttelverdichtung](https://monchengladbach.geotechnik.sbs/ruttelverdichtung/)
+- [Sandkegel Dichte](https://monchengladbach.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://monchengladbach.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://monchengladbach.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://monchengladbach.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://monchengladbach.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://monchengladbach.geotechnik.sbs/seismische-refraktion/)
+- [Spt Bohrung](https://monchengladbach.geotechnik.sbs/spt-bohrung/)
+- [Starrer Belag](https://monchengladbach.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://monchengladbach.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://monchengladbach.geotechnik.sbs/stutzmauern/)
+- [Triaxialversuch](https://monchengladbach.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://monchengladbach.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://monchengladbach.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://monchengladbach.geotechnik.sbs/weichbodentunnel/)
+
+## Contact
+- Website: https://monchengladbach.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Monchengladbach, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
